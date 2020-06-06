@@ -2,6 +2,9 @@
 
 ## **Inicialização do arquivo**
 
-Após baixar o projeto aqui do github será necessário executar o comando 'npm install' para instalar as dependências do projeto.
+Após realizar o dowload do projeto execute os comandos abaixo para executar o projeto.
 
-Instalada as dependências execute o comando 'npm start' para iniciar o servidor.
+```
+npm install
+npm start
+```

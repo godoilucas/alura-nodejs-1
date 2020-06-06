@@ -2,7 +2,7 @@
 "use strict";
 
 var marko_template = module.exports = require("marko/src/html").t(__filename),
-    marko_componentType = "/casadocodigo$1.0.0/src/app/views/livros/form/form.marko",
+    marko_componentType = "/alura-nodejs-1$1.0.0/src/app/views/livros/form/form.marko",
     marko_renderer = require("marko/src/runtime/components/renderer"),
     marko_attr = require("marko/src/runtime/html/helpers/attr"),
     helpers_escape_xml = require("marko/src/runtime/html/helpers/escape-xml"),
@@ -46,7 +46,7 @@ marko_template._ = marko_renderer(render, {
   });
 
 marko_template.meta = {
-    id: "/casadocodigo$1.0.0/src/app/views/livros/form/form.marko",
+    id: "/alura-nodejs-1$1.0.0/src/app/views/livros/form/form.marko",
     tags: [
       "marko/src/core-tags/components/init-components-tag",
       "marko/src/core-tags/core/await/reorderer-renderer",

@@ -1,5 +1,5 @@
 {
-  "name": "casadocodigo",
+  "name": "alura-nodejs-1",
   "version": "1.0.0",
   "description": "Curso Alura",
   "main": "server.js",
@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "nodemon": "2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godoilucas/alura-nodejs-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/godoilucas/alura-nodejs-1/issues"
+  },
+  "homepage": "https://github.com/godoilucas/alura-nodejs-1#readme"
 }
